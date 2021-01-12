@@ -1,0 +1,5 @@
+Get the height from the user
+Run a for loop to run through each row
+print (height-(row+1)) number of spaces in each row
+Print '#' same as that of row number
+print a new line
